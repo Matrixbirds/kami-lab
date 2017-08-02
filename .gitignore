@@ -21,3 +21,4 @@
 config/*.yml
 /public/packs
 /node_modules
+/vendor/bundle
