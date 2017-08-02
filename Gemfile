@@ -26,6 +26,9 @@ gem 'foreman', '~> 0.84.0'
 # Use mina for deployment
 gem 'mina', group: :development
 
+# Use graphql as core api schema provider
+gem 'graphql', '~> 1.6', '>= 1.6.6'
+
 # Use Rack CORS for handling Cross-Origin Resource Sharing (CORS), making cross-origin AJAX possible
 # gem 'rack-cors'
 
